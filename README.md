@@ -2,14 +2,14 @@
 
 Export - by LIHU.
 
-pour télécharger, cliquer sur le lien guild.csv, puis cliquer sur le bouton de droite (un crochet avec une flèche vers le bas).
+pour télécharger, cliquer sur le lien guild.csv, puis cliquer sur le bouton de droite (un crochet avec une flèche vers le bas qui affiche "Download raw file" quand on met le pointeur de souris au dessus).
 
 Colonnes :
 - Player - \[son player id\]
 - Name - nom du toon
 - Side : Light, Dark, Neutral (y'a que Hondo comme ça pour l'instant)
-- L/GL : Leader, Galactig Legend (ils sont tous aussi L, donc c'est pas réécrit)
-- Role : Sup=Support, Tnk=Tank, Atk=Sttacker, Hlr=Healer
+- L/GL : Leader, Galactic Legend (ils sont tous aussi leaders, donc c'est pas réécrit)
+- Role : Sup=Support, Tnk=Tank, Atk=Attacker, Hlr=Healer
 - Level : 1 à 85
 - \* : nb d'etoiles
 - GL : Gear Level
