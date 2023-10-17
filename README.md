@@ -9,7 +9,7 @@ Colonnes :
 - L/GL : Leader, Galactig Legend (ils sont tous aussi L, donc c'est pas réécrit)
 - Role : Sup=Support, Tnk=Tank, Atk=Sttacker, Hlr=Healer
 - Level : 1 à 85
-- * : *
+- \* : nb d'etoiles
 - GL : Gear Level
 - RL : Relic Level
 - Power : power du toon
