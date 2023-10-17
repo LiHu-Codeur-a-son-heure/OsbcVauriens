@@ -2,6 +2,8 @@
 
 Export - by LIHU.
 
+pour télécharger, cliquer sur le lien guild.csv, puis cliquer sur le bouton de droite (un crochet avec une flèche vers le bas).
+
 Colonnes :
 - Player - \[son player id\]
 - Name - nom du toon
